@@ -1,3 +1,4 @@
+#![windows_subsystem = "windows"]
 #![no_main]
 
 use iced::widget::qr_code::{self, QRCode};
